@@ -4,8 +4,8 @@
 
 ## Grob-Planung
 
-1. Aktuell bin ich sehr zufreidene mit meinem Notenschnitt von 5.0. Ich möchte aber versuchen diesen Schnitt dieses Jahr bei zu behalten.
-2. In dieser Lernperiode möchte ich mich vorallem am anfang auf das modul 320 konzentrieren, da dies sehr wichtig ist und ich daher denke das es wichtig ist eine gute Note zu erzielen.
+1. Aktuell bin ich sehr zufrieden mit meinem Notenschnitt von 5.0. Ich möchte aber versuchen, diesen Schnitt dieses Jahr beizubehalten.
+2. In dieser Lern-Periode möchte ich mich vor allem am Anfang auf das Modul 320 konzentrieren, da dies notwendig ist und ich daher denke, dass es wichtig ist, eine gute Note zu erzielen.
 
 ## 16.8.2024
 
@@ -13,14 +13,13 @@
 
 ## 23.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Tagesprogramme der Woche anschauen 
+- [ ] Alfällige Aufträge die ich noch nicht gemacht habe lösen.
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+☝️ Vergessen Sie nicht, bis einen ersten Code auf GitHub hochzuladen, und in der Spalte **erfüllt?** Einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
 
