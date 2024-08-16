@@ -1,13 +1,11 @@
-# Lern-Periode 4
+# Lern-Periode 6
 
-23.2 bis 5.4.2024
+16.8 bis 20.9.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+1. Aktuell bin ich sehr zufreidene mit meinem Notenschnitt von 5.0. Ich möchte aber versuchen diesen Schnitt dieses Jahr bei zu behalten.
+2. In dieser Lernperiode möchte ich mich vorallem am anfang auf das modul 320 konzentrieren, da dies sehr wichtig ist und ich daher denke das es wichtig ist eine gute Note zu erzielen.
 
 ## 20.2.2024
 
