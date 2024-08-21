@@ -13,8 +13,9 @@
 
 ## 23.8.2024
 
-- [ ] Tagesprogramme der Woche anschauen 
-- [ ] Alfällige Aufträge die ich noch nicht gemacht habe lösen.
+- [ ] Auftrag 4213 M320
+- [ ] Auftrag 4205 M320
+      
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
