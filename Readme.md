@@ -20,10 +20,7 @@
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf GitHub hochzuladen, und in der Spalte **erfüllt?** Einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
 
-## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
