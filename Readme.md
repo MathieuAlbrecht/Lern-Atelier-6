@@ -18,7 +18,8 @@
       
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+
+✍️ Heute Morgen habe ich die beiden Aufträge gelöst und hatte recht wenige Schwierigkeiten und diese konnte ich auch schnell beheben. Ausserdem habe ich noch den Auftrag 0706 des Moduls 231 gemacht, den man als Bonus machen kann. 
 
 
 
