@@ -22,6 +22,10 @@
 ✍️ Heute Morgen habe ich die beiden Aufträge gelöst und hatte recht wenige Schwierigkeiten und diese konnte ich auch schnell beheben. Ausserdem habe ich noch den Auftrag 0706 des Moduls 231 gemacht, den man als Bonus machen kann. 
 
 
+## 30.8.2024
 
+- [ ] Auftrag 4207 M320 Nachholen
+- [ ] Auftrag 4208 M320 beginnen
+- [ ] Auftrag 1713 M231
 
 
