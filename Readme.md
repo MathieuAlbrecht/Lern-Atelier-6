@@ -33,4 +33,9 @@ Heute habe ich an diesen Aufträgen gearbeitet und hatte dabei nur kleine Proble
 
 ## 06.09.2008
 
-- [ ]  
+- [ ]  Auftrag 1718 im Modul 1719
+- [ ]  Projekt Autosystem Klasse für alle Autos erstellen und Eigenschaften definieren
+- [ ]  Subklasse mit eigenschaften die nur Verbrennerautos haben erstellen
+- [ ]  Subklasse mit eigenschaften die nur E-Autos besitzen erstellen
+
+
