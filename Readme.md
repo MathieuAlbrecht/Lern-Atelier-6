@@ -31,10 +31,14 @@
 Heute habe ich an diesen Aufträgen gearbeitet und hatte dabei nur kleine Probleme, die ich einfach beheben konnte. Ich bin nun wieder auf dem Stand, auf dem wir sein sollten, im Modul 320.
 
 
-## 06.09.2008
+## 06.09.2024
 
 - [ ]  Auftrag 1718 im Modul 1719
 - [ ]  Projekt Autosystem Klasse für alle Autos erstellen und Eigenschaften definieren
+
+
+## 13.09.2024
+
 - [ ]  Subklasse mit eigenschaften die nur Verbrennerautos haben erstellen
 - [ ]  Subklasse mit eigenschaften die nur E-Autos besitzen erstellen
 
