@@ -42,4 +42,8 @@ Heute habe ich an diesen Aufträgen gearbeitet und hatte dabei nur kleine Proble
 - [ ]  Subklasse mit eigenschaften die nur Verbrennerautos haben erstellen
 - [ ]  Subklasse mit eigenschaften die nur E-Autos besitzen erstellen
 
+## 20.09.2024
 
+- [ ] Präsentation für Hi-fi Prototyp anschauen
+- [ ] Homepage Hi-fi Prototyp M322
+- [ ] M231 Auftrag 1720
